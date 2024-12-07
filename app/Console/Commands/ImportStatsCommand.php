@@ -15,7 +15,7 @@ class ImportStatsCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'stats:import {filename}';
+    protected $signature = 'app:import-stats {filename}';
 
     /**
      * The console command description.
